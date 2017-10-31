@@ -47,6 +47,6 @@ extension VideoClientAPIViewController {
         //app unique IDs
         static let scheme = "com.StepwiseDesigns.VideoMeme"
         static let apiKey = "key=AIzaSyBtQXRLuqWCG8XX78VyMU31bRcUFkcMUrU"
-        static let clientID = "client_id=499301457881-be9dd2agpmak6fa1c98ncsgfn3dru9kn.apps.googleusercontent.com"
+        static let clientID = "client_id=YOUR_CLIENT_ID.apps.googleusercontent.com"
     }
 }
